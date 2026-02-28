@@ -1,0 +1,24 @@
+# Laravel (Backend)
+/lks-2026be/vendor/
+/lks-2026be/.env
+/lks-2026be/.env.backup
+/lks-2026be/storage/logs/*
+/lks-2026be/storage/framework/cache/*
+/lks-2026be/storage/framework/sessions/*
+/lks-2026be/storage/framework/views/*
+/lks-2026be/bootstrap/cache/*
+/lks-2026be/public/hot
+/lks-2026be/public/storage
+
+# React (Frontend)
+/lks-2026fe/node_modules/
+/lks-2026fe/.env
+/lks-2026fe/.env.local
+/lks-2026fe/.env.production
+/lks-2026fe/dist/
+/lks-2026fe/build/
+
+# Umum
+.DS_Store
+Thumbs.db
+*.log
