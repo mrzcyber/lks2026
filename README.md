@@ -1,4 +1,4 @@
-```markdown
+
 # Tourism Management Dashboard - LKS 2026 🗺️
 
 Repositori ini berisi proyek pengembangan sistem manajemen pariwisata yang dikembangkan untuk **LKS (Lomba Kompetensi Siswa) 2026**. Proyek ini menggunakan arsitektur *decoupled* dengan Laravel sebagai backend API dan React sebagai interface frontend.
