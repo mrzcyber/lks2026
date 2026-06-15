@@ -3,6 +3,12 @@
 Sistem manajemen pariwisata Kabupaten Sragen yang dikembangkan untuk **LKS (Lomba Kompetensi Siswa) 2026**. Dibangun dengan arsitektur *decoupled* menggunakan Laravel sebagai backend RESTful API dan React sebagai frontend SPA.
 
 ---
+ 
+## 📸 Preview
+ 
+![Homepage](https://github.com/user-attachments/assets/e090cf37-f06a-42c7-a691-886a0d7a4e69)
+
+---
 
 ## 🚀 Tech Stack
 
