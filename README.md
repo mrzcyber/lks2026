@@ -226,14 +226,6 @@ npm run dev
 
 ---
 
-## 🔑 Akun Default
-
-| Email             | Password   | Role  |
-|-------------------|------------|-------|
-| admin@gmail.com   | 12345678   | Admin |
-
----
-
 ## 📄 Lisensi
 
 MIT License
