@@ -40,10 +40,10 @@ const Home = ()=>{
 
             <div className="w-full py-10 ">
                 <p className="text-2xl font-poppins font-bold mb-10 px-5 md:px-20 ">Destinasi Terpopuler</p>
-                <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-5 px-5 md:px-15">
+                <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-5 px-5 md:px-20">
                     {data?.map((item,index)=>(
 
-                        <div key={index} className="w-80 bg-white shadow-md shadow-black/50 h-96 rounded-xl flex flex-col hover:shadow-black/80 transition-all duration-300  overflow-hidden  ">
+                        <div key={index} className="w-full bg-white shadow-md shadow-black/50 h-96 rounded-xl flex flex-col hover:shadow-black/80 transition-all duration-300  overflow-hidden  ">
                         <div className="w-full h-92 overflow-hidden ">
                             <img src={`${import.meta.env.VITE_API}storage/${item?.foto}`} alt="image" className="object-cover object-center w-full h-full hover:scale-105 scale-100 transition-all duration-300 " />
                             
